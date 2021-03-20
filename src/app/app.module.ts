@@ -5,7 +5,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { SkillsComponent } from './components/skills/skills.component';
 import { ContactComponent } from './components/contact/contact.component';
-import { BlogComponent } from './src/components/blog/blog.component';
+import { BlogComponent } from './components/blog/blog.component';
 
 @NgModule({
   declarations: [
